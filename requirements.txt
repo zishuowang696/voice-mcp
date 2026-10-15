@@ -1,0 +1,4 @@
+openai>=1.0
+# 麦克风输入（可选；text 模式不需要）
+sounddevice>=0.4
+numpy>=1.24
